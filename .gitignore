@@ -1,0 +1,5 @@
+.DS_Store
+ebpack/public/*
+!ebpack/public/.gitkeep
+ebpack/server/*
+!ebpack/server/.gitkeep

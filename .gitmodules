@@ -1,0 +1,6 @@
+[submodule "Minimal-React-Starter"]
+	path = Minimal-React-Starter
+	url = https://github.com/evanyui/Minimal-React-Starter
+[submodule "Jetty-Server-Starter"]
+	path = Jetty-Server-Starter
+	url = https://github.com/evanyui/Jetty-Server-Starter
